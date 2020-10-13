@@ -2,6 +2,8 @@
 
 Esclarecimento de possíveis dúvidas e questões resolvidas
 
+OBS.: O arquivo .ktr está contida a transformação feita no pentaho para enviar do excel para o mysql.
+
 ## Teoria
 Exitem três joins mais utilizados: INNER JOIN(JOIN), LEFT JOIN, RIGHT JOIN
 
