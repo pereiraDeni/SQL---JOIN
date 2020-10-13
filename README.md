@@ -1,4 +1,4 @@
-# SQL - JOINS
+# SQL - JOIN
 
 Esclarecimento de possíveis dúvidas e questões resolvidas
 
