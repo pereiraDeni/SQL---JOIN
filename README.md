@@ -8,7 +8,7 @@ OBS.: O arquivo .ktr está contida a transformação feita no pentaho para envia
 Exitem três joins mais utilizados: INNER JOIN(JOIN), LEFT JOIN, RIGHT JOIN
 
 1) A tabela do conjunto a esquerda é a 'ORIGEM'(FROM).
-2)Básico de teoria do conjunto LEFT (OUTER) JOIN é o complemento de B em relação a A, se b for o Right Side.(se aplica da mesma forma para o RIGHT (OUTER) JOIN)
+2)Básico de teoria do conjunto LEFT (OUTER) JOIN é o conjunto A mas lembrando que o JOIN é feito no conjunto que foi determinado no ON se houver mais de item será devolvido duplicado, se b for o Right Side.(se aplica da mesma forma para o RIGHT (OUTER) JOIN)
 3)INNER JOIN ou JOIN é a interseção ou intersecção.
 4)FULL OUTER JOIN, raramente é utilizado, normalmente se faz da mesma maneira que se calcula o n(AUB) = nA + nB -n(AinterB)(dessa maneira precisar determinar qual das interseções será excluida). No LEFT E NO RIGHT deve-se utilizar IF NULL.
 
